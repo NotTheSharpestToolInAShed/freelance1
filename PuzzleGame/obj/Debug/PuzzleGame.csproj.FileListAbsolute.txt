@@ -33,3 +33,15 @@ C:\Users\HP\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateRe
 C:\Users\HP\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
 C:\Users\HP\Desktop\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.DesignForm.resources
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.playForm.resources
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\HP\Desktop\PuzzleGame\freelance1\PuzzleGame\obj\Debug\PuzzleGame.pdb

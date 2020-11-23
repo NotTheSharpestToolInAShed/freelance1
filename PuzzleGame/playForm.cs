@@ -168,6 +168,7 @@ namespace PuzzleGame
 
                                 if (grid[i, j - 1] is NoneEmpty)
                                 {
+
                                     GridObject a = grid[i, j];
                                     Point Location_Now = grid[i, j].Location;
 
@@ -179,10 +180,11 @@ namespace PuzzleGame
 
                                     selectedPBox = grid[i, j - 1];
                                     selectedPBox.Location = Location_Now;
-                                    MessageBox.Show(selectedPBox.Location.X.ToString()+" "+ selectedPBox.Location.Y.ToString());
+                                    
 
                                     grid[i, j].Image = new Bitmap("None.JPG");
                                     grid[i, j - 1].Image = new Bitmap("GreenBox.PNG");
+                                    MessageBox.Show("Was Noneempty");
                                 }
                                 else if(grid[i, j - 1] is GreenDoor )
                                     grid[i, j] = (NoneEmpty)grid[i, j];
@@ -196,14 +198,16 @@ namespace PuzzleGame
                                     grid[i, j] = grid[i, j - 1];
                                     grid[i, j - 1] = a;                 //there we swap higher element and element we chose(box)
                                     selectedPBox = grid[i, j - 1];
-                                    grid[i, j].Image = new Bitmap("None.JPG");
+                                    grid[i, j].Image = new Bitmap("None.JPG");          //doesn't work, try to change indexes
                                     grid[i, j - 1].Image = new Bitmap("GreenBox.PNG");
+                                    MessageBox.Show("Was Noneempty");
                                 }
                                 else if (grid[i, j - 1] is RedDoor)
                                 {
                                     grid[i, j] = (NoneEmpty)grid[i, j];
                                 }
-
+                                else
+                                    MessageBox.Show("Wall or box");
                             }
 
                             safecounter = true;
